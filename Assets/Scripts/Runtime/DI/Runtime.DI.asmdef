@@ -1,0 +1,23 @@
+{
+    "name": "Runtime.DI",
+    "rootNamespace": "",
+    "references": [
+        "Zenject",
+        "BehaviorDesigner",
+        "QuickOutline",
+        "Runtime.Abstractions",
+        "Runtime.Game",
+        "Runtime.Data",
+        "Unity.InputSystem",
+        "Plugins.EasyPerformantOutline"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

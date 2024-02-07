@@ -1,0 +1,10 @@
+{
+    "name": "Runtime.Game",
+    "references": [
+        "Unity.InputSystem",
+        "Zenject",
+        "BehaviorDesigner",
+        "Plugins.EasyPerformantOutline",
+        "Runtime.Abstractions"
+    ]
+}
